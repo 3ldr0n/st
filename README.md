@@ -1,6 +1,6 @@
-# st - simple terminal
+# My build of st - simple terminal
 
-st is a simple terminal emulator for X which sucks less.
+I just applied some patches and changed a little of the config, nothing serious.
 
 
 ## Requirements
@@ -34,4 +34,3 @@ See the man page for additional details.
 ## Credits
 
 Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
-
