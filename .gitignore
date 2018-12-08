@@ -56,7 +56,6 @@ dkms.conf
 
 *.out
 *.o
-config.def.h
 *.orig
 patches/*
 st
